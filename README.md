@@ -1,4 +1,4 @@
-# Angular UI, CRUD operations connecting to .NET Core Web API and SQL Server
+## Angular UI CRUD interface to .NET Core Web API and SQL Server
 
 An Angular UI providing access to a CRUD structure using an MVC pattern to update employee records on a SQL Server.
 
