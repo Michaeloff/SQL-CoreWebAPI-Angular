@@ -5,7 +5,7 @@ An Angular UI providing access to a CRUD structure using an MVC pattern to updat
 Can be used in conjuction with the repo NetCoreWebAPI to show the use of a Web API, Angular front end and SQL Server. Server hosting can be run locally or would require a devOps solution such as AWS/Azure/etc.
 
 
-## Angular Notes
+### Angular Notes
 
 The Angular portion of this project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.0.
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
